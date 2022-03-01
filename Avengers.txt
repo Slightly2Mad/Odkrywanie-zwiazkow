@@ -1,0 +1,23 @@
+Avengers.
+Hawkeye.
+CapitanAmerica.
+BlackWidow.
+bow.
+shield.
+guns.
+
+
+%Facts
+can(fight).
+can(walk).
+
+
+has(shield, CapitanAmerica).
+has(bow, Hawkeye).
+has(guns, BlackWidow).
+
+walk(Avengers).
+
+focused(Avengers).
+focused(Avengers):- fight(Avengers)
+

@@ -1,0 +1,34 @@
+% Atoms
+
+woman1.
+woman2.
+woman3.
+whiteDress.
+yellowDress.
+greyDress.
+sunglasses.
+bigPurse.
+mediumPurse.
+smallPurse.
+white.
+grey.
+blue.
+weather.
+
+% Facts
+
+white(bigPurse).
+grey(smallPurse)
+blue(mediumPurse). 
+sunny(weather).
+
+wears(yellowDress, woman1)
+wears(mediumPurse, woman1)
+wears(whiteDress, woman2)
+wears(bigPurse, woman2)
+wears(greyDress, woman3)
+wears(smallPurse, woman3)
+
+wears(sunglasses, woman1):- weather(sunny).
+wears(sunglasses, woman2):- weather(sunny).
+wears(sunglasses, woman3):- weather(sunny).
