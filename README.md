@@ -1,5 +1,9 @@
 # Odkrywanie-zwiazkow
-described file1: https://moodle2.e-wsb.pl/mod/resource/view.php?id=4925129
+described files: \
+https://moodle2.e-wsb.pl/mod/resource/view.php?id=4925129
+https://moodle2.e-wsb.pl/mod/resource/view.php?id=4925130
+https://moodle2.e-wsb.pl/mod/resource/view.php?id=4925133
+
 zad: 
 
 Na podstawie adresu https://gist.github.com/palles77/1ee228ad15a03353439536e9ae632b20 wykonać ćwiczenia i przebadać
